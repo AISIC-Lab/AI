@@ -1,4 +1,4 @@
-# AI - changed here
+# AI
 
 ---
 
