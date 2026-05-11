@@ -141,3 +141,9 @@ Local development environments for Python:
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-8/ai-pr-week-8-solution.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-8/ai-pr-week-8-solution.ipynb)
 
+## 📆 Week 9:
+
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-9/ai-pr-week-9-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-9/ai-pr-week-9-student.ipynb)
+
